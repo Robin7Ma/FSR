@@ -1,0 +1,43 @@
+{
+    "FixedFileInfo": {
+        "FileVersion": {
+            "Major": 1,
+            "Minor": 0,
+            "Patch": 0,
+            "Build": 0
+        },
+        "ProductVersion": {
+            "Major": 1,
+            "Minor": 0,
+            "Patch": 0,
+            "Build": 0
+        },
+        "FileFlagsMask": "3f",
+        "FileFlags ": "00",
+        "FileOS": "040004",
+        "FileType": "01",
+        "FileSubType": "00"
+    },
+    "StringFileInfo": {
+        "Comments": "文件搜索替换",
+        "CompanyName": "github.com/Robin7Ma",
+        "FileDescription": "在目录中以正则表达式搜索文件并批量替换为新文件",
+        "FileVersion": "",
+        "InternalName": "File Search Replace",
+        "LegalCopyright": "github.com/Robin7Ma",
+        "LegalTrademarks": "",
+        "OriginalFilename": "FSR.exe",
+        "PrivateBuild": "",
+        "ProductName": "File Search Replace",
+        "ProductVersion": "1.0.0.0",
+        "SpecialBuild": ""
+    },
+    "VarFileInfo": {
+        "Translation": {
+            "LangID": "2052",
+            "CharsetID": "04B0"
+        }
+    },
+    "IconPath": "FSR.ico",
+    "ManifestPath": "FSR.exe.manifest"
+}
